@@ -27,6 +27,10 @@ This repository showcases my work completed as part of the **SkillCraft Technolo
 - Region-wise Performance
 - Product Category Analysis
 
+### Dashboard Preview
+
+![Sales Dashboard](https://github.com/AniLKumar-1609/SkillCraft-Data-Analyst-Internship/blob/main/Task-01-Sales%20Dashboard/Dashboard_Screenshot.png)
+
 ---
 
 ### 🧹 Task 02 – Data Cleaning & Preparation
@@ -66,6 +70,10 @@ This repository showcases my work completed as part of the **SkillCraft Technolo
 - Salary Slab Analysis
 - Education Field Analysis
 - Job Role Analysis
+- 
+### Dashboard Preview
+
+![HR Employee Attrition Dashboard](https://raw.githubusercontent.com/AnilKumar-1609/SkillCraft-Data-Analyst-Internship/main/Task-03-Interactive%20Visualization/HR-Employee-Dashboard%20Screenshot.png)
 
 ---
 
@@ -83,6 +91,10 @@ This repository showcases my work completed as part of the **SkillCraft Technolo
 - Customer Trends
 - Product Performance
 - Business Recommendations
+
+### Report Preview
+
+![Business Insights Report](https://raw.githubusercontent.com/AnilKumar-1609/SkillCraft-Data-Analyst-Internship/main/Task-04-Business%20Insights%20Report(EDA)/Task4%20Screenshot.png)
 
 ---
 
