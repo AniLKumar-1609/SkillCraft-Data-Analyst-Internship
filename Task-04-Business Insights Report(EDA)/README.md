@@ -16,10 +16,6 @@ Analyze retail sales data and generate actionable business insights.
 - Product Performance
 - Business Recommendations
 
-## Report Preview
-
-![Business Insights Report](Task4 Screenshot.png)
-
 ## Files
 
 - Variety Store Data Analysis.xlsx
