@@ -1,45 +1,158 @@
-# SkillCraft Data Analyst Internship
+# 📊 SkillCraft Technology – Data Analyst Internship
 
-This repository contains the tasks completed as part of the SkillCraft Technology Data Analyst Internship.
+> A collection of projects completed during the **SkillCraft Technology Data Analyst Internship**, demonstrating practical skills in data cleaning, data visualization, dashboard development, and business analytics.
 
-## 📂 Tasks
+---
 
-### Task 01: Sales Dashboard
-- Created an interactive Sales Dashboard using Microsoft Excel.
-- Analyzed sales performance using charts and KPIs.
+## 📌 About
 
-### Task 02: Data Cleaning and Preparation
-- Cleaned and prepared the SuperStore dataset using Python and Pandas.
-- Removed duplicates, handled missing values, and prepared the dataset for analysis.
+This repository showcases my work completed as part of the **SkillCraft Technology Data Analyst Internship**. Each task focuses on solving real-world business problems using industry-standard tools such as **Microsoft Excel, Python, Pandas, Jupyter Notebook, Power BI, Git, and GitHub**.
 
-### Task 03: HR Employee Attrition Dashboard
-- Built an interactive HR Employee Attrition Dashboard using Power BI.
-- Analyzed attrition by department, gender, age, salary, education, and job role.
+---
 
-### Task 04: Business Insights Report
-- Performed business analysis on Variety Store sales data.
-- Generated key business insights and recommendations using Excel.
+## 📂 Project Overview
 
-## 🛠️ Tools Used
+### 📈 Task 01 – Sales Dashboard
+
+**Objective**
+- Design an interactive sales dashboard to monitor sales performance.
+
+**Tools**
 - Microsoft Excel
-- Power BI
+
+**Key Highlights**
+- KPI Cards
+- Interactive Charts
+- Sales Trend Analysis
+- Region-wise Performance
+- Product Category Analysis
+
+---
+
+### 🧹 Task 02 – Data Cleaning & Preparation
+
+**Objective**
+- Clean and preprocess raw retail sales data for analysis.
+
+**Tools**
 - Python
 - Pandas
 - Jupyter Notebook
-- Git
-- GitHub
 
-## 📁 Repository Structure
+**Key Highlights**
+- Missing Value Treatment
+- Duplicate Removal
+- Data Type Conversion
+- Data Validation
+- Export Clean Dataset
+
+---
+
+### 📊 Task 03 – HR Employee Attrition Dashboard
+
+**Objective**
+- Analyze employee attrition using Power BI.
+
+**Tools**
+- Power BI
+
+**Dashboard Features**
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Department-wise Attrition
+- Gender Analysis
+- Age Group Analysis
+- Salary Slab Analysis
+- Education Field Analysis
+- Job Role Analysis
+
+---
+
+### 📉 Task 04 – Business Insights Report
+
+**Objective**
+- Perform exploratory business analysis and generate actionable insights from retail sales data.
+
+**Tools**
+- Microsoft Excel
+
+**Key Insights**
+- Sales Performance
+- Profit Analysis
+- Customer Trends
+- Product Performance
+- Business Recommendations
+
+---
+
+# 🛠️ Technologies Used
+
+| Category | Tools |
+|----------|-------|
+| Spreadsheet | Microsoft Excel |
+| Programming | Python |
+| Libraries | Pandas |
+| Notebook | Jupyter Notebook |
+| Business Intelligence | Power BI |
+| Version Control | Git |
+| Repository Hosting | GitHub |
+
+---
+
+# 📁 Repository Structure
 
 ```
-Task-01-Sales Dashboard
-Task-02-Data Cleaning and Preparation
-Task-03-Interactive Visualization
-Task-04-Business Insights Report
+SkillCraft-Data-Analyst-Internship
+│
+├── Task-01-Sales Dashboard
+│
+├── Task-02-Data Cleaning and Preparation
+│
+├── Task-03-Interactive Visualization
+│
+├── Task-04-Business Insights Report
+│
+└── README.md
 ```
 
-## 👨‍💻 Author
+---
+
+# 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Preprocessing
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Exploratory Data Analysis (EDA)
+- Microsoft Excel
+- Power BI
+- Python Programming
+- Pandas
+- Git & GitHub
+
+---
+
+# 🚀 Internship Learning Outcomes
+
+Through this internship, I gained practical experience in:
+
+- Building interactive dashboards
+- Cleaning and preparing real-world datasets
+- Performing business analysis
+- Creating professional reports
+- Managing projects using Git & GitHub
+- Presenting analytical insights effectively
+
+---
+
+# 👨‍💻 Author
 
 **Anil Kumar Jena**
 
-GitHub: https://github.com/AnilKumar-1609
+📧 Email: *ajanil9938@gmail.com*
+
+🔗 GitHub: https://github.com/AnilKumar-1609
+
+-----------------------------------------------------
