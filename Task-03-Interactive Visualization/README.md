@@ -22,7 +22,7 @@ Develop an interactive HR Employee Attrition Dashboard using Power BI.
 
 ## Dashboard Preview
 
-![HR Dashboard](HR-Employee-Dashboard Screenshot.png)
+! [HR Dashboard] (HR-Employee-Dashboard Screenshot.png)
 
 ## Files
 
